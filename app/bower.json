@@ -17,6 +17,8 @@
   "dependencies": {
     "bootstrap": "v4.0.0-alpha.4",
     "flexbox": "*",
-    "masonry": "^4.1.1"
+    "masonry": "^4.1.1",
+    "glyphicons": "^0.0.2",
+    "glyphicons-halflings": "*"
   }
 }

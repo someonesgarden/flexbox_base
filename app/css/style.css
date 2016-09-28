@@ -107,6 +107,7 @@ body{
 nav{
   width:96%;height:42px;
   font-size:1.2rem;
+    color:#666;
   display: flex;
   justify-content: flex-end;
   align-items: center;

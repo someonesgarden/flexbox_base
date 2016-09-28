@@ -23,6 +23,13 @@ html{
 
 /*  fIX LAYOUT */
 
+.fix40 {
+    flex-grow: 0;
+    flex-basis: 40px;
+    flex-shrink: 0;
+}
+
+
 .fix60 {
     flex-grow: 0;
     flex-basis: 60px;
