@@ -1,0 +1,22 @@
+{
+  "name": "flexbox",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Daisuke Nishimura <d@someonesgarden.org>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.4",
+    "flexbox": "*",
+    "masonry": "^4.1.1"
+  }
+}
