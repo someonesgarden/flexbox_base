@@ -47,19 +47,19 @@
 }
 
 .border-right{
-  border-right:1px solid rgb(129,194,194);
+  border-right:1px solid rgba(129,194,194,0.3);
 }
 
 .border-left{
-  border-left:1px solid rgb(129,194,194);
+  border-left:1px solid rgba(129,194,194,0.3);
 }
 
 .border-bottom{
-  border-bottom:1px solid rgb(129,194,194);
+  border-bottom:1px solid rgba(129,194,194,0.3);
 }
 
 .border-top{
-  border-top:1px solid rgb(129,194,194);
+  border-top:1px solid rgba(129,194,194,0.3);
 }
 
 .shadow{
